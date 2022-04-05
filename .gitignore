@@ -1,9 +1,6 @@
 ﻿################################################################################
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
-
-/.vs/OpenXmlFreamwork/DesignTimeBuild/.dtbcache.v2
-/.vs/OpenXmlFreamwork/v17/.futdcache.v1
-/Test/obj/Debug/net6.0
-/Test/obj/Release/net6.0
+/.vs
+/OpenXmlFreamwork/obj
 /Test/obj
