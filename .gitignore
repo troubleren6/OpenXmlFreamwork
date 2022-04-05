@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/OpenXmlFreamwork/DesignTimeBuild/.dtbcache.v2
+/.vs/OpenXmlFreamwork/v17/.futdcache.v1
+/Test/obj/Debug/net6.0
+/Test/obj/Release/net6.0
+/Test/obj
